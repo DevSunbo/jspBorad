@@ -8,9 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>JSP 게시판 웹사이트</title>
   </head>
   <body>
-  $END$
+    <script>
+      location.href = 'login.jsp';
+    </script>
+
   </body>
 </html>
