@@ -1,5 +1,9 @@
 *.class
 
+out/
+web/css
+web/js
+web/fonts
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
